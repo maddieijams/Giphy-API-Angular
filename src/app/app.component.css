@@ -1,0 +1,35 @@
+.card {
+    width: 20em;
+    height: 26em;
+    float: left;
+    padding: 1em;
+    margin: 2em;
+   
+}
+
+.search-results{
+    justify-content: center;
+    display: flex space-between;
+}
+
+.img{
+    width:20em;
+    height:18em;
+    margin: auto;
+}
+
+.buttons{
+    justify-content: end;
+}
+
+.title{
+    text-align: center;
+}
+
+.button{
+    background-color: gray;
+    font-size: 20px;
+    width: 50px !important;
+    height: 50px;
+    border-radius: 5px;
+}
